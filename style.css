@@ -8,4 +8,12 @@ h1{
 
 p{
     color: red;
+    border-top: 4px solid green;
+    border-bottom: 6px dotted #eee;
+    border-left: 6px outset red;
+    border-right: 6px double orange;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    padding-top: 10px;
 }
